@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: green;
+  border-color: blueviolet;
+  align-items: center;
+  max-width: 1300px;
+}
+.titulo {
+  color:whitesmoke
+  border: solid 
+  text-align: center;
+  width: 100%;
+  margin-left: 0px;
+  border-radius:15%px
+  
+}
+nav { background-color:whitesmoke ;
+    padding: 15px;
+    }
+nav a { color: darkviolet;
+      border:solid
+      }
+
+.contenido h2{
+ background-color: darkviolet;
+  border-color: whitesmoke;
+  border-top: 50%px;
+  text-decoration: darkgray;
+  text-align: center;
+  width: 100%
+}
+img{
+  
+  width:auto;
+  height:150px;
+  border:darkred;
+}
